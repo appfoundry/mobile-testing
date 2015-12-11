@@ -62,7 +62,7 @@ In the `iOSTestTalkUITestingKIF` folder you will find simple UI tests using Xcod
 
 ###KIF
 
-In the `iOSTestTalkUITestingKIF` folder you will find examples of how to write simple tests using [KIF](https://github.com/kif-framework/KIF)
+In the `iOSTestTalkUITestingKIF` folder you will find examples of how to write simple tests using [KIF](https://github.com/kif-framework/KIF)
 
 
 #Contact
